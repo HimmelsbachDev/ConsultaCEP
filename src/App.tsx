@@ -104,7 +104,7 @@ export default function App() {
         </div>
       </div>
 
-      <footer className="mt-auto py-6 text-center bg-white shadow-md">
+      <footer className="mt-auto py-4 text-center bg-white shadow-md">
         <div className="flex items-center justify-center gap-2 text-gray-600">
           <span>Desenvolvido</span>
           <span>por</span>
